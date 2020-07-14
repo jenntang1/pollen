@@ -53,8 +53,11 @@ Visit [Pollen](https://pollenators.herokuapp.com/) and follow the instructions b
 ![PollenChallenge](https://i.imgur.com/ul4B9de.gif)
 
 ## Creators
+Jennifer Tang: [jennifer.tang@holbertonschool.com](mailto:jennifer.tang@holbertonschool.com), [Github](https://github.com/jenntang1) and [Twitter](https://twitter.com/jenntang1)  
+A budding Full-Stack Software Engineer living in Brooklyn, NY with interest in data science/management and experience in marketing analytics and pricing strategies.  Jennifer hopes to combine the analytical skills developed from ten years in Marketing with the technical programming skills gained to develop impactful applications and software.  When Jennifer is not on a computer, she likes to run outdoors, read the news, solve Sudoku, bake cookies and play with her nieces.  
+
 Flavio Vilchez Espinoza: [flavio.vilchezespinoza@holbertonschool.com](mailto:flavio.vilchezespinoza@holbertonschool.com) and [Github](https://github.com/fvesp18)  
-Jennifer Tang: [jennifer.tang@holbertonschool.com](mailto:jennifer.tang@holbertonschool.com) and [Github](https://github.com/jenntang1)  
+
 Pollen: [pollen.forensicbotany@gmail.com](mailto:pollen.forensicbotany@gmail.com) and [Github](https://github.com/pollenators/pollen)  
 
 ## Contributing
